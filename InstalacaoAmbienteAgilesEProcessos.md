@@ -120,7 +120,7 @@
          password="-"
 
       ```  
-      (acrescentar ao final):
+      Ou (acrescentar ao final):
       ```xml
 
          <Resource name="jdbc/<nomeDoBanco>-ds"
