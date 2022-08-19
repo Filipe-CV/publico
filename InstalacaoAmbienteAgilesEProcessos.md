@@ -47,6 +47,15 @@
 
       > Usar a versão da pasta Trunk.
 
+    1. Importação do projeto  
+      ```
+        Repositório SVN, trunk/codigos, botãoD > Checkout... > opção 'Check out  as project in the workspace' , Finish  
+     ```  
+    2. Tornar o projeto para ser do tipo Maven para o Eclipse  
+      ```
+        codigos [trunk/codigos] botãoD > Configure > Convert to Maven Project
+      ```
+
 - do Banco de dados - backup \["do banco de homologação" ~13GB\]
     esquemas  `-` e `-`
     
